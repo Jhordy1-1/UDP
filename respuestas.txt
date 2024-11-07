@@ -1,0 +1,10 @@
+Respuesta #1 | Fecha y Hora: 2024-11-07 14:45:49 | IP: 172.29.60.50 | Respuesta: quito
+Respuesta #2 | Fecha y Hora: 2024-11-07 14:45:55 | IP: 172.29.60.50 | Respuesta: node
+Respuesta #3 | Fecha y Hora: 2024-11-07 14:45:59 | IP: 172.29.60.50 | Respuesta: dolar
+Respuesta #4 | Fecha y Hora: 2024-11-07 14:46:04 | IP: 172.29.60.50 | Respuesta: chimborazo
+Respuesta #5 | Fecha y Hora: 2024-11-07 14:46:08 | IP: 172.29.60.50 | Respuesta: iguana
+Respuesta #1 | Fecha y Hora: 2024-11-07 14:48:45 | IP: 172.29.60.50 | Respuesta: quitp
+Respuesta #2 | Fecha y Hora: 2024-11-07 14:48:51 | IP: 172.29.60.50 | Respuesta: guayaquil
+Respuesta #3 | Fecha y Hora: 2024-11-07 14:48:54 | IP: 172.29.60.50 | Respuesta: dolar
+Respuesta #4 | Fecha y Hora: 2024-11-07 14:49:00 | IP: 172.29.60.50 | Respuesta: cotopaxi
+Respuesta #5 | Fecha y Hora: 2024-11-07 14:49:04 | IP: 172.29.60.50 | Respuesta: iguana
